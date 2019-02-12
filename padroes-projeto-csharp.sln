@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{BDB8C9E0-180E-4245-AF75-6C1E4589C6F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{42C47E65-2091-433C-8FB4-AEEE55A11EEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{BDB8C9E0-180E-4245-AF75-6C1E4589C6F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDB8C9E0-180E-4245-AF75-6C1E4589C6F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDB8C9E0-180E-4245-AF75-6C1E4589C6F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C47E65-2091-433C-8FB4-AEEE55A11EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C47E65-2091-433C-8FB4-AEEE55A11EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C47E65-2091-433C-8FB4-AEEE55A11EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C47E65-2091-433C-8FB4-AEEE55A11EEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
